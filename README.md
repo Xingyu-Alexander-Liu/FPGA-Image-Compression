@@ -1,0 +1,1 @@
+In this project, an Image compression pipeline is design by SystemVerilog, Synthesized in Quatus, verified with testbench in Modelsim, and can be tested on Altera DE2-115. For more details, please read Project Report.pdf.
